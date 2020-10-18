@@ -7,27 +7,27 @@ const App = () => {
    // Use your module names here.
    const modules = [
     {
-        name: "Web Dev",
-        noLectures: 1,
-        noPracticals: 2
-    },
-    {
-        name: "Programming",
+        name: "Agile Software",
         noLectures: 2,
         noPracticals: 3
     },
+    {
+        name: "Web App Development",
+        noLectures: 3,
+        noPracticals: 4
+    },
       {
-        name: "Database Systems",
-        noLectures: 2,
-        noPracticals: 2
+        name: "Buiness Analytics",
+        noLectures: 1,
+        noPracticals: 5
     },
     {
-        name: "DevOps",
-        noLectures: 2,
-        noPracticals: 2
+        name: "Enterprise Systems Architechure",
+        noLectures: 6,
+        noPracticals: 4
     },
     {
-        name: "Enterprise Web Dev",
+        name: "English as foreign language",
         noLectures: 2,
         noPracticals: 3
     }
